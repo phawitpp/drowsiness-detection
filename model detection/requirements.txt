@@ -1,0 +1,6 @@
+# Base ----------------------------------------
+ultralytics>=8.0.159
+opencv-python
+numpy
+playsound==1.2.2
+matplotlib

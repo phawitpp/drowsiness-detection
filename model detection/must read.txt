@@ -1,0 +1,1 @@
+change webcam number in starthere.py to your webcam number (0 is default)
