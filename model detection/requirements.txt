@@ -1,5 +1,6 @@
 # Base ----------------------------------------
 ultralytics>=8.0.159
+PySimpleGUI>=4.60.5
 opencv-python
 numpy
 playsound==1.2.2
